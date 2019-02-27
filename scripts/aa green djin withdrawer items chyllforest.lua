@@ -1,0 +1,13 @@
+local bpTo = "Backpack"
+Self.WithdrawItems(0, {"Giant Sword", bpTo, 100})
+Self.WithdrawItems(0, {"Haunted Blade", bpTo, 100})
+Self.WithdrawItems(0, {"Dragon Hammer", bpTo, 100})
+Self.WithdrawItems(0, {"Dreaded Cleaver", bpTo, 100})
+Self.WithdrawItems(0, {"Knight Armor", bpTo, 100})
+Self.WithdrawItems(0, {"Knight Axe", bpTo, 100})
+Self.WithdrawItems(0, {"Knight Legs", bpTo, 100})
+Self.WithdrawItems(0, {"Onyx Flail", bpTo, 100})
+Self.WithdrawItems(0, {"Warrior Helmet", bpTo, 100})
+Self.WithdrawItems(0, {"Vampire Shield", bpTo, 100})
+Self.WithdrawItems(0, {"Tower Shield", bpTo, 100})
+Self.WithdrawItems(0, {"", bpTo, 100})
